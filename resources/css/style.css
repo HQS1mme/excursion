@@ -1,0 +1,17 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+html {
+  background-color: Black;
+  text-align: center;
+}
+
+.Download {
+  color: Aquamarine;
+  font-size: 16px;
+}
